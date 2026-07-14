@@ -1,70 +1,65 @@
-# 📊 Retail-Sales-Analytics-SQL - Your Data Analytics Made Simple
+# Supply Chain & Inventory Optimization
 
-[![Download Retail-Sales-Analytics-SQL](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip)
+## Overview
 
-## 🚀 Getting Started
+This project analyzes retail supply chain data to identify opportunities for improving inventory management, shipping efficiency, and profitability.
 
-Welcome! This guide will help you download and run the Retail-Sales-Analytics-SQL application easily. You will be able to analyze retail data effectively in no time.
+Using Python, SQL, and data visualization, the project provides business insights that support data-driven decision making.
 
-### 📥 Download & Install
+---
 
-To get started, follow these steps:
+## Business Problem
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip) of this repository.
-  
-2. **Choose the Latest Version**: On the Releases page, find the latest version. Read the release notes for important updates and features.
+A retail company experiences delayed deliveries, inconsistent demand, and declining profits despite growing sales.
 
-3. **Download the Package**: Click on the appropriate file for your operating system (Windows, Mac, Linux) to download the application.
+The objective is to analyze operational data and recommend improvements for inventory planning and supply chain performance.
 
-4. **Run the Installer**: After downloading, locate the file on your computer and double-click to run the installer. Follow the on-screen instructions to complete the setup.
+---
 
-5. **Launch the Application**: Once the installation finishes, find the application in your programs list and open it.
+## Tools
 
-### 🖥️ System Requirements
+- Python
+- Pandas
+- NumPy
+- SQLite (SQL)
+- Matplotlib
 
-Before you install, ensure your system meets these requirements:
+---
 
-- **Operating System**: Windows 10 or later, macOS 10.13 or later, or a modern Linux distribution.
-- **Processor**: Intel i3 or equivalent (or better).
-- **Memory**: At least 4 GB RAM.
-- **Storage**: At least 100 MB of free disk space.
-- **Python**: Ensure you have Python 3.6 or later installed.
+## Project Workflow
 
-### 📊 Features
+- Data Cleaning
+- Exploratory Data Analysis
+- Shipping Lead Time Analysis
+- Product Demand Analysis
+- Regional Performance Analysis
+- Discount vs Profit Analysis
+- Customer Analysis
+- ABC Inventory Classification
+- Business Recommendations
 
-Retail-Sales-Analytics-SQL offers various features to help you visualize and understand your data:
+---
 
-- **ETL Pipeline**: Easily extract, transform, and load data from different sources.
-- **MySQL Integration**: Load data into MySQL for efficient SQL analysis.
-- **Data Visualization**: Generate sales trends and profit margin insights using Matplotlib and Seaborn.
-- **Intuitive Interface**: Designed for non-technical users with easy navigation.
-  
-### 📈 How to Use
+## Key Insights
 
-Once you've installed the application, follow these steps to analyze your data:
+- Identified products with consistently high demand.
+- Measured shipping delays across regions.
+- Evaluated the impact of discounts on profitability.
+- Classified products using ABC analysis.
+- Highlighted low-profit and high-performing categories.
 
-1. **Import Data**: Use the "Import" option to load your retail data files in CSV or Excel format.
-  
-2. **Configure Database Connection**: Enter your MySQL database details to connect to the ETL pipeline.
+---
 
-3. **Run Analysis**: Choose the type of analysis you want to perform. The application will guide you through each step.
+## Business Recommendations
 
-4. **View Results**: After the analysis, view your results in easy-to-read charts and graphs.
+- Reduce excessive discounts on low-margin products.
+- Improve shipping efficiency in slower regions.
+- Prioritize inventory for A-category products.
+- Monitor fast-moving products to reduce stock-out risk.
+- Focus marketing on profitable customer segments.
 
-5. **Export Insights**: Save your visualizations and reports as needed.
+---
 
-### 🛠️ Troubleshooting
+## Technologies
 
-If you experience issues, try these steps:
-
-- **Check System Requirements**: Ensure your computer meets the system requirements.
-  
-- **Restart Application**: Close and reopen the application if it freezes or doesn’t respond.
-
-- **Update the Application**: Visit the [Releases Page](https://github.com/chillguyfsfs-ctrl/Retail-Sales-Analytics-SQL/raw/refs/heads/main/outputs/Sales_Analytics_Retail_SQL_2.0-alpha.4.zip) to ensure you are using the latest version.
-
-### 💬 Support
-
-For help or suggestions, feel free to create an issue on the repository or contact support via the repository's email.
-
-By following this guide, you should be able to download, install, and run the Retail-Sales-Analytics-SQL application with ease. Enjoy your data analysis!
+Python • Pandas • NumPy • SQL • Matplotlib
